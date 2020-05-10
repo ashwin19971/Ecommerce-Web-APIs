@@ -1,16 +1,10 @@
 # GET, POST, DELETE AND UPDATE THE PRODUCTS
 
-PROJECT START STEPS:
+Initialize project by following steps:
 
-    Pre-requisites:
-    1. Install node, npm
-    2. Install express (npm install express --save)
+Install node, npm, express
+Go to the project root directory
+npm install
+npm start
 
-    Steps:
-    1. To run this application, do the following:
-        1.a. Go to the project root directory.
-        1.b. Run the following commands respectively in the terminal/command line to build and run the app:
-            - npm install
-            - npm start
-    
-    2. Go to http://localhost:8080 in your browser to view it.
+Open url http://localhost:8080/ in browser to view it.
